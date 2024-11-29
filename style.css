@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 body {
-    background-color: #181714;
+    background-color: #171717;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,7 +25,7 @@ a {
 }
 
 .logo {
-    color: #F9F6F6;
+    color: #FFFFFF;
     font-weight: 900;
     font-size: 64px;
 }
@@ -45,8 +45,8 @@ a {
     height: 60px;
     width: 100%;
     border-radius: 10px;
-    background: #282822;
-    color: #fcffdb;
+    background: #212121;
+    color: #FFFFFF;
     font-size: 25px;
     font-weight: 700;
     text-align: center;
